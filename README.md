@@ -1,6 +1,6 @@
 # data_version_control
 
-dvc 연습하기 위해 만든 repo 입니다.
+싹만 난 감자의 dvc 연습하기 위해 만든 repo 입니다.
 
 ⬇⬇⬇참고해서 연습 중인 자료들은 여기에⬇⬇⬇
 
